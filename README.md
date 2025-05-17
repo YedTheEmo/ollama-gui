@@ -1,7 +1,7 @@
-# Ollama Chat GUI
+# Ollama GUI
 
 ## Overview  
-Ollama Chat GUI is a Streamlit-based web application that offers a clean and intuitive interface to chat with Ollama AI models running locally. It allows users to select different models, adjust parameters like temperature and max tokens, and interact with the AI in real-time.
+Ollama GUI is a Streamlit-based web application that offers a clean and intuitive interface to chat with Ollama AI models running locally. It allows users to select different models, adjust parameters like temperature and max tokens, and interact with the AI in real-time.
 
 ## Features  
 - Model selection from available Ollama models  
@@ -24,6 +24,6 @@ Ollama Chat GUI is a Streamlit-based web application that offers a clean and int
    ```
 3. Run the app:  
    ```bash  
-   streamlit run app.py  
+   streamlit run ollama_gui.py  
    ```
 
